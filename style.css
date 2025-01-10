@@ -1,0 +1,65 @@
+/* Start Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Carter+One&family=Montserrat:wght@100..900&display=swap");
+/* End Google Fonts */
+/* Start Global Rules */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: Arial, sans-serif;
+}
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+img {
+  max-width: 100%;
+}
+.container {
+  padding: 0 15px;
+  margin: 0 auto;
+}
+/* Small Screen*/
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+/* Medium Screen*/
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+/* Large Screen*/
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+/* Start Scroll Up Button */
+span.up {
+  display: none;
+  position: fixed;
+  right: 15px;
+  bottom: 15px;
+  padding: 7px;
+  color: white;
+  background-color: hsl(353, 93%, 46%);
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 13px;
+  z-index: 100;
+}
+span.up.active {
+  display: inline;
+}
+/* End Scroll Up Button */
+/* End Global Rules */

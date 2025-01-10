@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.183fd55f.css",
+    "main.js": "/portfolio/static/js/main.a45d6892.js",
+    "static/media/kasper.png": "/portfolio/static/media/kasper.e1181876a88583ee6ceb.png",
+    "static/media/pizza.png": "/portfolio/static/media/pizza.e00cbca9fb267dfb2b68.png",
+    "static/media/cafe.png": "/portfolio/static/media/cafe.dca25b3f5a36fd9b0e42.png",
+    "static/media/yojke.png": "/portfolio/static/media/yojke.aa3664bb56609f5bbb4f.png",
+    "static/media/persone.avif": "/portfolio/static/media/persone.f595685a06e727af5fae.avif",
+    "index.html": "/portfolio/index.html",
+    "main.183fd55f.css.map": "/portfolio/static/css/main.183fd55f.css.map",
+    "main.a45d6892.js.map": "/portfolio/static/js/main.a45d6892.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.183fd55f.css",
+    "static/js/main.a45d6892.js"
+  ]
+}
